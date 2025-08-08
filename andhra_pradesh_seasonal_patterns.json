@@ -1,0 +1,29 @@
+{
+  "monsoon_months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "winter_months": [
+    12,
+    1,
+    2
+  ],
+  "summer_months": [
+    3,
+    4,
+    5
+  ],
+  "festival_season": [
+    9,
+    10,
+    11
+  ],
+  "harvest_season": [
+    11,
+    12,
+    1,
+    2
+  ]
+}
